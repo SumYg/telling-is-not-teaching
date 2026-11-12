@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Run outputs and logs: large, kept out of git
+runs/
+logs/
+
+# Model weights
+*.safetensors
+*.bin

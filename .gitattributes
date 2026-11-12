@@ -1,0 +1,3 @@
+# Keep LF endings so scripts run unchanged inside WSL
+* text=auto eol=lf
+*.png binary
